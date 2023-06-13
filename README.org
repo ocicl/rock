@@ -1,0 +1,10 @@
+* rock
+
+Asset manager and compiler for Common Lisp web apps
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/rock.git   |
+| commit  | 3223ac3  |
+| systems | rock |
+|---------+-------------------------------------------|
+
